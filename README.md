@@ -4,8 +4,6 @@ this is a simple dbd.js levelling system bot and has a tutorial at my youtube ch
 # setup
 head to `.env` file and fill in your bot token
 
-insert your bot invite in `help.js` file
-
 run `npm i` and you're all good :D
 
 # contributing
