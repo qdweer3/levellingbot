@@ -40,7 +40,7 @@ $onlyForServers[$guildID;]`
 //bot variables
 bot.variables({
    rch: "",
- rmsg: "congrats {username}🎊, you've just advanced to level {level} :D",
+ rmsg: "congrats {user.tag} 🎊, you've just advanced to level {level} :D",
  lvl: "0",
  exp: "0",
  rexp: "40",
